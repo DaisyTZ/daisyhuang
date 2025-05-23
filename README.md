@@ -34,6 +34,19 @@ Additionally, we created an interactive Tableau dashboard to visualize trends in
 - `model/`: Python scripts for each XGBoost model and ensemble voting logic
 - `dashboard/`: Tableau screenshots and insights
 - `README.md`: Project overview
+  
+Directory structure:
+└── daisytz-march-madness-model/
+    ├── README.md
+    ├── dashboard/
+    │   └── Query_Queens_CCAC_Tableau.twbx
+    ├── model/
+    │   ├── Ensemble.ipynb
+    │   ├── Geo_Merge.ipynb
+    │   ├── Performance_Merge.ipynb
+    │   └── Scale_Merge.ipynb
+    └── presentation/
+
 
 ## Visual Preview
 _TODO: Add Tableau screenshots or model output images here_
