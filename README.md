@@ -30,17 +30,17 @@ Additionally, we created an interactive Tableau dashboard to visualize trends in
 - Local affiliation plays a stronger role in states with top-performing programs (e.g., UConn in Connecticut).
 - School size alone doesn't ensure success, but influences visibility and participation.
 
-## 📂 Repository Contents
+## Repository Contents
 - `model/`: Python scripts for each XGBoost model and ensemble voting logic
 - `dashboard/`: Tableau screenshots and insights
 - `README.md`: Project overview
 
-## 🖼️ Visual Preview
+## Visual Preview
 _TODO: Add Tableau screenshots or model output images here_
 
 ---
 
-📌 **Developed by:**  
+**Developed by:**  
 Tzu-Yun (Daisy) Huang, Leanna Jeon, Yi Shiuan Chiang, Shih Min Lin  
 📍 Purdue University, Daniels School of Business
 🎖️ **Competition Result:** 5th out of 87 teams  
