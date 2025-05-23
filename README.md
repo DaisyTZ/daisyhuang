@@ -1,4 +1,5 @@
 # 🏀 NCAA March Madness Bracket Outcome Prediction
+Ensemble model to predict NCAA March Madness outcomes using team performance and geography
 
 ## Project Overview
 This project, developed as part of a case competition at Purdue University's Daniels School of Business, focuses on predicting the outcomes of the final two rounds of the NCAA March Madness tournament. The goal was twofold: build a highly accurate ensemble model for national championship forecasting and analyze how school affinity (e.g., loyalty and location) influences bracket submission behavior.
