@@ -35,10 +35,6 @@ Additionally, we created an interactive Tableau dashboard to visualize trends in
 - `dashboard/`: Tableau screenshots and insights
 - `presentation/`:Presentation slides
 - `README.md`: Project overview
-
-## Visual Preview
-_TODO: Add Tableau screenshots or model output images here_
-
 ---
 
 **Developed by:**  
